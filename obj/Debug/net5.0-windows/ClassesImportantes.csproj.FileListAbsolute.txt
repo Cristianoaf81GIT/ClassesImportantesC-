@@ -1,0 +1,16 @@
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.exe
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.deps.json
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.runtimeconfig.json
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.runtimeconfig.dev.json
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.dll
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ref\ClassesImportantes.dll
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\bin\Debug\net5.0-windows\ClassesImportantes.pdb
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.csproj.AssemblyReference.cache
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.AssemblyInfoInputs.cache
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.AssemblyInfo.cs
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.csproj.CoreCompileInputs.cache
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.dll
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ref\ClassesImportantes.dll
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.pdb
+C:\Users\cristiano.alexandre\source\repos\dotnet5\projetos\ClassesImportantes\obj\Debug\net5.0-windows\ClassesImportantes.genruntimeconfig.cache
