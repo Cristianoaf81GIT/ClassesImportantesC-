@@ -36,6 +36,7 @@
       this.btnColor = new System.Windows.Forms.Button();
       this.btnFont = new System.Windows.Forms.Button();
       this.btnEnvironment = new System.Windows.Forms.Button();
+      this.btnApplication = new System.Windows.Forms.Button();
       this.SuspendLayout();
       // 
       // btnAleatorio
@@ -125,6 +126,18 @@
       this.btnEnvironment.UseVisualStyleBackColor = true;
       this.btnEnvironment.Click += new System.EventHandler(this.btnEnvironment_Click);
 
+      
+      // btnApplication
+      
+      this.btnApplication.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+      this.btnApplication.Location = new System.Drawing.Point(585, 380);
+      this.btnApplication.Name = "btnApplication";
+      this.btnApplication.Size = new System.Drawing.Size(168, 71);
+      this.btnApplication.TabIndex = 8;
+      this.btnApplication.Text = "Aplicação";
+      this.btnApplication.UseVisualStyleBackColor = true;
+      this.btnApplication.Click += new System.EventHandler(this.btnApplication_Click);
+
       // 
       // Form1
       // 
@@ -139,6 +152,7 @@
       this.Controls.Add(this.lblResultado);
       this.Controls.Add(this.btnAleatorio);
       this.Controls.Add(this.btnEnvironment);
+      this.Controls.Add(this.btnApplication);
       this.Name = "Form1";
       this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
       this.Text = "Form1";
@@ -157,6 +171,7 @@
     private System.Windows.Forms.Button btnColor;
     private System.Windows.Forms.Button btnFont;
     private System.Windows.Forms.Button btnEnvironment;
+    private System.Windows.Forms.Button btnApplication;
   }
 }
 

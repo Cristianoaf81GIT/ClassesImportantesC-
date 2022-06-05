@@ -139,5 +139,15 @@ namespace ClassesImportantes
       MessageBox.Show(result, "\nDisco(s) do sistema");
       lblResultado.Text += "\n" + disco;
     }
+
+    private void btnApplication_Click(object sender, EventArgs e)
+    {
+      // Application.Exit();
+      // String exec = Application.ExecutablePath;
+      // lblResultado.Text = exec;
+      String pasta =  Application.StartupPath;
+      Application.Restart();
+      lblResultado.Text= pasta;
+    }
   }
 }
